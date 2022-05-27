@@ -12,7 +12,7 @@ Currently working at a Non-Profit organization, but interested in getting a slic
 
 [![Linkedin Badge](https://img.shields.io/badge/Janelle%20Williams-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/janelle-williams)](https://www.linkedin.com/in/janelle-williams)
 [![Medium Badge](https://img.shields.io/badge/Janelle%20Williams-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@janelle_williams)](https://medium.com/@janelle_williams)
-[![Gmail Badge](https://img.shields.io/badge/-janellewill11@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:janellewill11@gmail.com)](mailto:janellewill11@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Janelle%20Williams-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:janellewill11@gmail.com)](mailto:janellewill11@gmail.com)
 
 ## ⚡ Technologies
 
