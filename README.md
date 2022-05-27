@@ -10,7 +10,7 @@ Currently working at a Non-Profit organization, but interested in getting a slic
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
 
-[![Linkedin Badge](https://img.shields.io/badge/https://www.linkedin.com/in/janelle-williams-9181a0240-blue?style=flat-square&logo=Linkedin&logoColor=white&link= https://www.linkedin.com/in/janelle-williams-9181a0240)](https://www.linkedin.com/in/janelle-williams-9181a0240)
+[![Linkedin Badge](https://img.shields.io/badge/https://linkedin.com/in/janelle-williams-9181a0240-blue?style=flat-square&logo=Linkedin&logoColor=white&link= https://linkedin.com/in/janelle-williams-9181a0240)](https://linkedin.com/in/janelle-williams-9181a0240)
 [![Medium Badge](https://img.shields.io/badge/https://medium.com/@janelle_williams-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@janelle_williams)](https://medium.com/@janelle_williams)
 [![Gmail Badge](https://img.shields.io/badge/-janellewill11@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:janellewill11@gmail.com)](mailto:janellewill11@gmail.com)
 
